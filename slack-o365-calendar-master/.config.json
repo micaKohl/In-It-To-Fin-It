@@ -1,0 +1,14 @@
+{
+  "clientID": "f5e4b06b-6e4b-481a-9134-f7f627cfaf71",
+  "clientSecret": "a1EVmQZCrhfrtutzLycoOdz",
+  "mongo_connection": "mongodb://localhost:27017/",
+  "slack_token":"xoxb-212192067668-sZcOarK5VlcQhEdjvlxUa7rQ",
+  "returnURL": "http://localhost:3000/auth/openid/return",
+  "skipUserProfile": true,
+  "identityMetadata": "https://login.microsoftonline.com/common/v2.0/.well-known/openid-configuration",
+  "responseType": "code", 
+  "responseMode": "form_post",
+  "realm": "http://outlook.office.com/",
+  "slack_autoReconnect": true,
+  "slack_autoMark": true
+}
